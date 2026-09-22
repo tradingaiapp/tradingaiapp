@@ -1,5 +1,16 @@
 [
   {
+    "version": "1.3.8",
+    "date": "2026-09-21",
+    "changes": [
+      "✨ New Price Action strategy — signals based on Fibonacci retracement zones confirmed by candlestick patterns (Pin Bar, Engulfing, Morning/Evening Star, and more)",
+      "🛠️ Smarter signal filtering — fewer duplicate or low-quality alerts, higher-confidence entries",
+      "🛠️ Improved chart performance and readability",
+      "✨ Updated market opening hours for better accuracy",
+      "✨ Clearer, less cluttered chart labels for signals"
+    ]
+  },
+  {
     "version": "1.3.6",
     "date": "2026-08-08",
     "changes": [
